@@ -16,7 +16,7 @@ create env vars :
 ```
 
 ### Usage:
-```bash
+```
 Command to run the program type
 
 'projinit <project_name> <project_type> <r>' - for remote repository
