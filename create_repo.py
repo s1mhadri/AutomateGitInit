@@ -72,6 +72,7 @@ def create_local_repo(dir_path, project_name, prog_lang):
 
     commands = [
         f'echo # {project_name} > README.md',
+        'echo # run from here > main.py',
         'git init',
         'git add .',
         'git commit -m "Initial commit"',
